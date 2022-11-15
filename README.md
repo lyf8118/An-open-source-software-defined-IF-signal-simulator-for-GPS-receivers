@@ -1,7 +1,7 @@
 # An open source software-defined IF signal simulator for GPS receivers
 ===============================================================================
 
-Authors
+Author
 -------------------------------------------------------------------------------
 Yafeng Li
 E-Mail: <lyf8118@126.com> and QQ: 317886245
