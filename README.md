@@ -1,4 +1,4 @@
-# An-open-source-software-defined-IF-signal-simulator-for-GPS-receivers
+# An open source software-defined IF signal simulator for GPS receivers
 ===============================================================================
 
 Authors
